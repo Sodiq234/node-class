@@ -1,0 +1,11 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "This is my first api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sodiq <sodiqonawale@gmail.com>",
+  "license": "ISC"
+}
